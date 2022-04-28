@@ -1,6 +1,6 @@
 # TextRecognizer
 
-Text Recognizer es una aplicación escrita en Swif 🚀.
+Text Recognizer es una aplicación escrita en Swift 🚀.
 
 Esta aplicación reconoce el texto de las imágenes.
 
